@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViewDemoApp</string>
+    <string name="the_stupid_string_im_showing_users">That is not a valid color!</string>
+</resources>
